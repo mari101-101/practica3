@@ -1,4 +1,4 @@
-package com.sena.practica3.models.respositoryes;
+package com.sena.practica3.respositoryes;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
